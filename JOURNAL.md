@@ -48,6 +48,6 @@ I was thinkig about the second option, but than I said to myself that It would b
 I looked into how game controllers work. I found this [reddit post](https://www.reddit.com/r/AskElectronics/comments/8lt9gv/what_kind_of_pushbuttons_do_game_controllers_use/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) and through the comments I found [those switches](https://www.aliexpress.com/item/32866761020.html). I will be making custom pcb to fit them.
 
 ### Battery and charging module
-With the help of this [video](https://youtu.be/wPQf_Pz0APA?si=iIAJfkxdQpS1blh7) I learned how to charge the RP0 from battery i found [cheap voltage booster](https://tinyurl.com/429w3p3t), because the one he uses in the video is almost 15x expensive. I also found this [battery](). Because i dont want to have the RP0 take the power all the time i also found those [switches]().
+With the help of this [video](https://youtu.be/wPQf_Pz0APA?si=iIAJfkxdQpS1blh7) I learned how to charge the RP0 from battery I found [cheap voltage booster](https://tinyurl.com/429w3p3t), because the one he uses in the video is almost 15x expensive. I also found this [battery](https://tinyurl.com/25jmx5w2). Because I dont want to have the RP0 take the power all the time I also found those [switches](https://tinyurl.com/34hr93tu).
 
-**Time spent: 4hr**
+**Time spent: 5hr**
