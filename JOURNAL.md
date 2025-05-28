@@ -54,6 +54,17 @@ I looked into how game controllers work. I found this [reddit post](https://www.
 ![image](https://github.com/user-attachments/assets/2c8c2739-ab02-4b8b-bf0d-f5d6dc86ce34)
 
 ### Battery and charging module
-With the help of this [video](https://youtu.be/wPQf_Pz0APA?si=iIAJfkxdQpS1blh7) I learned how to charge the RP0 from battery I found [cheap voltage booster](https://tinyurl.com/429w3p3t), because the one he uses in the video is almost 15x expensive. I also found this [battery](https://tinyurl.com/25jmx5w2). Because I dont want to have the RP0 take the power all the time I also found those [switches](https://tinyurl.com/34hr93tu).
+With the help of this [video](https://youtu.be/wPQf_Pz0APA?si=iIAJfkxdQpS1blh7) I learned how to charge the RP0 from battery. ~~I found [cheap voltage booster](https://tinyurl.com/429w3p3t), because the one he uses in the video is almost 15x more expensive.~~ I also found this [battery](https://tinyurl.com/25jmx5w2). Because I don't want to have the RP0 take the power all the time I also found those [switches](https://tinyurl.com/34hr93tu).
 
 **Time spent: 5hr**
+
+## 28th May: Audio and batteries
+
+### Battery and charging module 
+I found out that the vlotage booster i found yesterday doesn't suport charging... So I found [new one](https://tinyurl.com/4jvbk29v) that does. I wil also need some [USB-C inupt with cables](https://tinyurl.com/2bktbsuc). Because i also want to know how charged the battery is i will need [battery carge indicator](https://tinyurl.com/5596b6uh)
+
+This is how it will look like:
+
+<img src="https://github.com/user-attachments/assets/fd3fb29c-d571-4c74-956f-8f0f0633f781" alt="image" width="600"/>
+
+**Time spent: 1.5hr**
