@@ -58,13 +58,13 @@ With the help of this [video](https://youtu.be/wPQf_Pz0APA?si=iIAJfkxdQpS1blh7) 
 
 **Time spent: 5hr**
 
-## 28th May: Audio and batteries
+## 28th May: PCB and batteries
 
 ### Battery and charging module 
-I found out that the vlotage booster i found yesterday doesn't suport charging... So I found [new one](https://tinyurl.com/4jvbk29v) that does. I wil also need some [USB-C inupt with cables](https://tinyurl.com/2bktbsuc). Because i also want to know how charged the battery is i will need [battery carge indicator](https://tinyurl.com/5596b6uh)
+I found out that the vlotage booster i found yesterday doesn't suport charging... So I found [new one](https://tinyurl.com/4jvbk29v) that does. I wil also need some [USB-C inupt with cables](https://tinyurl.com/2bktbsuc). Because i also want to know how charged the battery is i will need [battery charge indicator](https://tinyurl.com/5596b6uh).
 
 This is how it will look like:
 
-<img src="https://github.com/user-attachments/assets/fd3fb29c-d571-4c74-956f-8f0f0633f781" alt="image" width="600"/>
+<img src="https://github.com/user-attachments/assets/556fb7b3-e956-4b3f-b37c-78652f554b3c" alt="image" width="600"/>
 
-**Time spent: 1.5hr**
+**Time spent: 2.5hr**
