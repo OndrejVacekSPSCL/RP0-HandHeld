@@ -77,7 +77,11 @@ I started working on the schematic, and created this:
 
 I had lots of problems with finding the right footprints for the resistors and capacitors...
 
+After some time I finished the PCB
+
+<img src="https://github.com/user-attachments/assets/6e7682e6-b841-4d3d-9538-a29a6f9921ee" alt="image" width="600"/>
+
 ### Audio
 I found parts (resistors, capacitors, etc.) and added the links to the list above.
 
-**Time spent: 4.5hr**
+**Time spent: 5.5hr**
