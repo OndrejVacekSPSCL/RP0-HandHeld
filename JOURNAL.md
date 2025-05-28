@@ -37,11 +37,11 @@ I will need:
     
 I was thinkig about the second option, but than I said to myself that It would be to easy :D. I will need:
 
-- 2x 270 Ohm resistors
-- 2x 150 Ohm resistors
-- 2x 10 uf electrolitic Capacitors
-- 2x 0.01 uf Polyester-Film Capacitors
-- audio jack
+- 2x [270 Ohm resistors](https://tinyurl.com/ycs5rh84)
+- 2x [150 Ohm resistors](https://tinyurl.com/ycs5rh84)
+- 2x [10 uf electrolitic Capacitors](https://tinyurl.com/2p6z8e5f)
+- 2x [0.01 uf Polyester-Film Capacitors](https://tinyurl.com/33zae35e)
+- [Speaker](https://tinyurl.com/4ueak527)
 - custom PCB
 
 Here is schematic of how it should be connected
@@ -49,7 +49,7 @@ Here is schematic of how it should be connected
 <img src="https://github.com/user-attachments/assets/59e63e07-29d2-48de-9986-08d0493ad39c" alt="image" width="400"/>
 
 ### Inputs
-I looked into how game controllers work. I found this [reddit post](https://www.reddit.com/r/AskElectronics/comments/8lt9gv/what_kind_of_pushbuttons_do_game_controllers_use/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) and through the comments I found [those switches](https://www.aliexpress.com/item/32866761020.html). They are rubber dome switches, you could find something similar in membrane keyboards. I will be making custom pcb to fit them.
+I looked into how game controllers work. I found this [reddit post](https://www.reddit.com/r/AskElectronics/comments/8lt9gv/what_kind_of_pushbuttons_do_game_controllers_use/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) and through the comments I found [those switches](https://www.aliexpress.com/item/32866761020.html). They are rubber dome switches, you could find something similar in membrane keyboards. Thay will be conected by [wire](https://tinyurl.com/4vmrkypu). I wanted to make PCB for them, but that would be harder to attach it to the case...
 
 ![image](https://github.com/user-attachments/assets/2c8c2739-ab02-4b8b-bf0d-f5d6dc86ce34)
 
@@ -72,6 +72,12 @@ I started working on the PCB for my project. I found this [footprint](https://ww
 
 I started working on the schematic, and created this:
 
-<img src="https://github.com/user-attachments/assets/e0119841-3c12-4df8-9c6d-7ff29916b3a7" alt="image" width="600"/>
 
-**Time spent: 4hr**
+<img src="https://github.com/user-attachments/assets/7131816d-9086-4aaf-9e25-67b31e1ef72d" alt="image" width="600"/>
+
+I had lots of problems with finding the right footprints for the resistors and capacitors...
+
+### Audio
+I found parts (resistors, capacitors, etc.) and added the links to the list above.
+
+**Time spent: 4.5hr**
