@@ -40,7 +40,7 @@ I was thinkig about the second option, but than I said to myself that It would b
 - 2x 270 Ohm resistors
 - 2x 150 Ohm resistors
 - 2x 10 uf electrolitic Capacitors
-- 2x 0.01 uf Polyester -Fil Capacitors
+- 2x 0.01 uf Polyester-Film Capacitors
 - audio jack
 - custom PCB
 
@@ -67,4 +67,11 @@ This is how it will look like:
 
 <img src="https://github.com/user-attachments/assets/556fb7b3-e956-4b3f-b37c-78652f554b3c" alt="image" width="600"/>
 
-**Time spent: 2.5hr**
+### PCB
+I started working on the PCB for my project. I found this [footprint](https://www.snapeda.com/parts/RASPBERRY%20PI%20ZERO%202%20W/Raspberry%20Pi/view-part/) of RP0 that I'll use.
+
+I started working on the schematic, and created this:
+
+<img src="https://github.com/user-attachments/assets/e0119841-3c12-4df8-9c6d-7ff29916b3a7" alt="image" width="600"/>
+
+**Time spent: 4hr**
