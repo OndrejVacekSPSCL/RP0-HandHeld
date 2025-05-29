@@ -87,8 +87,16 @@ I found parts (resistors, capacitors, etc.) and added the links to the list abov
 **Time spent: 5.5hr**
 
 ## 29th May: Remaking the PCB
-Today I relised the pcb is to big, so i started remaking it...
+Today I relised the pcb is to big, so i started remaking it... I reduced it a lot.
+
+Height: 97mm -> 69mm
+
+Width: 88mm -> 70mm
+
+Here is the new version of the pcb:
+
+<img src="https://github.com/user-attachments/assets/2ed13aef-1bf1-43a1-a037-ff171e0d801e" alt="image" width="600"/>
 
 I also started working on the case
 
-**Time spent: 2hr**
+**Time spent: 3hr**
