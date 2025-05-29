@@ -129,8 +129,9 @@
 		(descr "Soldered wire connection, for a single 0.5 mm² wire, reinforced insulation, conductor diameter 0.9mm, outer diameter 2.3mm, size source Multi-Contact FLEXI-xV 0.50 (https://www.staubli.com/content/dam/ecs/catalogs-brochures/TM/CAB-Main-11014119-en.pdf#page=11), bend radius 3 times outer diameter, generated with kicad-footprint-generator")
 		(tags "connector wire 0.5sqmm")
 		(property "Reference" "J8"
-			(at 0 -2.35 0)
+			(at -1 -2.35 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "9072fe57-f188-4f09-be46-45fdc81a19b8")
 			(effects
 				(font
@@ -273,7 +274,7 @@
 		(descr "C, Disc series, Radial, pin pitch=5.00mm, diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
 		(tags "C Disc series Radial pin pitch 5.00mm diameter 5mm width 2.5mm Capacitor")
 		(property "Reference" "C2"
-			(at 2.5 -2.5 90)
+			(at 2.5 0 90)
 			(layer "F.SilkS")
 			(uuid "9500b9ff-bb49-45ae-8d16-51fadd32587c")
 			(effects
@@ -1571,8 +1572,9 @@
 		(descr "Soldered wire connection, for a single 0.5 mm² wire, reinforced insulation, conductor diameter 0.9mm, outer diameter 2.3mm, size source Multi-Contact FLEXI-xV 0.50 (https://www.staubli.com/content/dam/ecs/catalogs-brochures/TM/CAB-Main-11014119-en.pdf#page=11), bend radius 3 times outer diameter, generated with kicad-footprint-generator")
 		(tags "connector wire 0.5sqmm")
 		(property "Reference" "J6"
-			(at 0 -2.35 0)
+			(at -1 -2.35 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "59a1d59e-b81e-4c6b-9ce0-a5218cc643eb")
 			(effects
 				(font
@@ -1715,8 +1717,9 @@
 		(descr "Soldered wire connection, for a single 0.5 mm² wire, reinforced insulation, conductor diameter 0.9mm, outer diameter 2.3mm, size source Multi-Contact FLEXI-xV 0.50 (https://www.staubli.com/content/dam/ecs/catalogs-brochures/TM/CAB-Main-11014119-en.pdf#page=11), bend radius 3 times outer diameter, generated with kicad-footprint-generator")
 		(tags "connector wire 0.5sqmm")
 		(property "Reference" "J13"
-			(at 0 -2.35 0)
+			(at -1.5 -2.35 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "9efe6b15-409f-4c68-9453-3bbb5aea49ef")
 			(effects
 				(font
@@ -1859,8 +1862,9 @@
 		(descr "Soldered wire connection, for a single 0.5 mm² wire, reinforced insulation, conductor diameter 0.9mm, outer diameter 2.3mm, size source Multi-Contact FLEXI-xV 0.50 (https://www.staubli.com/content/dam/ecs/catalogs-brochures/TM/CAB-Main-11014119-en.pdf#page=11), bend radius 3 times outer diameter, generated with kicad-footprint-generator")
 		(tags "connector wire 0.5sqmm")
 		(property "Reference" "J3"
-			(at 0 -2.35 0)
+			(at -1 -2.35 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "325c90e2-04c3-4a0e-be60-0bc52469da5d")
 			(effects
 				(font
@@ -2003,8 +2007,9 @@
 		(descr "Soldered wire connection, for a single 0.5 mm² wire, reinforced insulation, conductor diameter 0.9mm, outer diameter 2.3mm, size source Multi-Contact FLEXI-xV 0.50 (https://www.staubli.com/content/dam/ecs/catalogs-brochures/TM/CAB-Main-11014119-en.pdf#page=11), bend radius 3 times outer diameter, generated with kicad-footprint-generator")
 		(tags "connector wire 0.5sqmm")
 		(property "Reference" "J11"
-			(at 0 -2.35 0)
+			(at -1.5 -2.35 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "50af6abe-0304-44d3-9d1d-fdb441114287")
 			(effects
 				(font
@@ -2149,6 +2154,7 @@
 		(property "Reference" "J12"
 			(at 0 -2.35 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "5df91774-f680-4d20-a0fc-434caf557f99")
 			(effects
 				(font
@@ -2291,7 +2297,7 @@
 		(descr "Resistor, Axial_DIN0414 series, Axial, Horizontal, pin pitch=15.24mm, 2W, length*diameter=11.9*4.5mm^2, http://www.vishay.com/docs/20128/wkxwrx.pdf")
 		(tags "Resistor Axial_DIN0414 series Axial Horizontal pin pitch 15.24mm 2W length 11.9mm diameter 4.5mm")
 		(property "Reference" "R4"
-			(at 7.62 -3.37 0)
+			(at 12.62 1.5 0)
 			(layer "F.SilkS")
 			(uuid "abd85152-eebd-452d-b2e4-2ada87526c3a")
 			(effects
@@ -2465,8 +2471,9 @@
 		(descr "Soldered wire connection, for a single 0.5 mm² wire, reinforced insulation, conductor diameter 0.9mm, outer diameter 2.3mm, size source Multi-Contact FLEXI-xV 0.50 (https://www.staubli.com/content/dam/ecs/catalogs-brochures/TM/CAB-Main-11014119-en.pdf#page=11), bend radius 3 times outer diameter, generated with kicad-footprint-generator")
 		(tags "connector wire 0.5sqmm")
 		(property "Reference" "J9"
-			(at 0 -2.35 0)
+			(at -1 -2.35 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "a2b4b2c3-2902-46cb-a49d-72c788cd72a7")
 			(effects
 				(font
@@ -2609,8 +2616,9 @@
 		(descr "Soldered wire connection, for a single 0.5 mm² wire, reinforced insulation, conductor diameter 0.9mm, outer diameter 2.3mm, size source Multi-Contact FLEXI-xV 0.50 (https://www.staubli.com/content/dam/ecs/catalogs-brochures/TM/CAB-Main-11014119-en.pdf#page=11), bend radius 3 times outer diameter, generated with kicad-footprint-generator")
 		(tags "connector wire 0.5sqmm")
 		(property "Reference" "J5"
-			(at 0 -2.35 0)
+			(at -1 -2.35 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "d78b943f-9d03-4a45-bfdd-33baff973a84")
 			(effects
 				(font
@@ -2753,7 +2761,7 @@
 		(descr "Resistor, Axial_DIN0414 series, Axial, Horizontal, pin pitch=15.24mm, 2W, length*diameter=11.9*4.5mm^2, http://www.vishay.com/docs/20128/wkxwrx.pdf")
 		(tags "Resistor Axial_DIN0414 series Axial Horizontal pin pitch 15.24mm 2W length 11.9mm diameter 4.5mm")
 		(property "Reference" "R1"
-			(at 7.62 -3.37 0)
+			(at 2.62 -1.5 0)
 			(layer "F.SilkS")
 			(uuid "9cc8a69d-5b11-4175-b9ca-8375c11962cc")
 			(effects
@@ -2929,6 +2937,7 @@
 		(property "Reference" "J10"
 			(at 0 -2.35 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "4c74c737-a06f-4506-bc59-1297084b4cc9")
 			(effects
 				(font
@@ -3073,6 +3082,7 @@
 		(property "Reference" "J7"
 			(at 0 -2.35 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "2393b22c-77b3-44fd-a69c-03f746569aec")
 			(effects
 				(font
@@ -3217,6 +3227,7 @@
 		(property "Reference" "J1"
 			(at 0 -2.35 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "3f9b2160-b55a-4206-8650-7e3f0cf8306f")
 			(effects
 				(font
@@ -3359,7 +3370,7 @@
 		(descr "C, Disc series, Radial, pin pitch=5.00mm, diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
 		(tags "C Disc series Radial pin pitch 5.00mm diameter 5mm width 2.5mm Capacitor")
 		(property "Reference" "C1"
-			(at 2.5 -2.5 90)
+			(at 3 0.5 90)
 			(layer "F.SilkS")
 			(uuid "a09f6169-2a7f-44f0-b984-28d8bb46c7a9")
 			(effects
@@ -3542,8 +3553,9 @@
 		(descr "Soldered wire connection, for a single 0.5 mm² wire, reinforced insulation, conductor diameter 0.9mm, outer diameter 2.3mm, size source Multi-Contact FLEXI-xV 0.50 (https://www.staubli.com/content/dam/ecs/catalogs-brochures/TM/CAB-Main-11014119-en.pdf#page=11), bend radius 3 times outer diameter, generated with kicad-footprint-generator")
 		(tags "connector wire 0.5sqmm")
 		(property "Reference" "J4"
-			(at 0 -2.35 0)
+			(at -2 -2 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "a10c310e-c114-4cb7-a92f-fe3d44b3fa75")
 			(effects
 				(font
@@ -3688,6 +3700,7 @@
 		(property "Reference" "J2"
 			(at 0 -2.35 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "c9af5a94-e991-4ed9-94eb-3bc321e8d825")
 			(effects
 				(font
@@ -3830,7 +3843,7 @@
 		(descr "Resistor, Axial_DIN0414 series, Axial, Horizontal, pin pitch=15.24mm, 2W, length*diameter=11.9*4.5mm^2, http://www.vishay.com/docs/20128/wkxwrx.pdf")
 		(tags "Resistor Axial_DIN0414 series Axial Horizontal pin pitch 15.24mm 2W length 11.9mm diameter 4.5mm")
 		(property "Reference" "R3"
-			(at 7.62 -3.37 0)
+			(at 12.62 1.5 0)
 			(layer "F.SilkS")
 			(uuid "f9332757-ac43-433c-bfb6-8994cc1a166c")
 			(effects
@@ -4002,8 +4015,9 @@
 		(uuid "d52dda45-2dd2-460c-9c13-10bc76c7797d")
 		(at 148 53.5 180)
 		(property "Reference" "U1"
-			(at -29.569 -17.0132 0)
+			(at -12 -6 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "d122382d-d675-42c0-84b7-e7f94ba84004")
 			(effects
 				(font
@@ -4981,7 +4995,7 @@
 		(descr "CP, Radial series, Radial, pin pitch=2.00mm, diameter=4mm, height=7mm, Electrolytic Capacitor")
 		(tags "CP Radial series Radial pin pitch 2.00mm diameter 4mm height 7mm Electrolytic Capacitor")
 		(property "Reference" "C4"
-			(at 1 -3.25 0)
+			(at -0.527401 -3 0)
 			(layer "F.SilkS")
 			(uuid "bfbe45f1-2f84-4fba-967e-14a094845a1b")
 			(effects
@@ -6096,7 +6110,7 @@
 		(descr "Resistor, Axial_DIN0414 series, Axial, Horizontal, pin pitch=15.24mm, 2W, length*diameter=11.9*4.5mm^2, http://www.vishay.com/docs/20128/wkxwrx.pdf")
 		(tags "Resistor Axial_DIN0414 series Axial Horizontal pin pitch 15.24mm 2W length 11.9mm diameter 4.5mm")
 		(property "Reference" "R2"
-			(at 7.62 -3.37 0)
+			(at 2.62 -1.5 0)
 			(layer "F.SilkS")
 			(uuid "bf77a0f8-cb4f-4024-8063-35fa7df62272")
 			(effects
@@ -6273,6 +6287,114 @@
 		(fill no)
 		(layer "Edge.Cuts")
 		(uuid "78b9e13d-4b35-4bf7-91b6-78b21d7f5b37")
+	)
+	(gr_text "GameBoy Pro Max"
+		(at 119 90.5 90)
+		(layer "F.SilkS")
+		(uuid "026420b0-c1bf-4b42-9773-b5fd0b8c58de")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text ":D\n"
+		(at 181.5 70.5 0)
+		(layer "F.SilkS")
+		(uuid "02bdacd4-4165-4f15-987c-57750e945d9a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Ondkos"
+		(at 177.5 105.5 0)
+		(layer "F.SilkS")
+		(uuid "045b9ea4-0163-4de2-a5e3-90fa2614f88c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "150 Ohm"
+		(at 154 82.5 0)
+		(layer "F.SilkS")
+		(uuid "0a38b82b-9a95-4472-a670-ab6fdf628efc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "150 Ohm\n"
+		(at 153.5 76 0)
+		(layer "F.SilkS")
+		(uuid "3b29a490-6c92-4391-be4e-f7f3ae330436")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "270 Ohm"
+		(at 154.5 95.5 0)
+		(layer "F.SilkS")
+		(uuid "75d1b133-05d0-46c5-aaf8-24538791609e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "https://github.com/OndrejVacekSPSCL/RP0-HandHeld"
+		(at 157.5 68 0)
+		(layer "F.SilkS")
+		(uuid "e4dea500-08b9-4306-8158-31fc26402a2a")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.05)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "RP0-HandHeld\n"
+		(at 124.5 43 0)
+		(layer "F.SilkS")
+		(uuid "e938d53c-d167-476c-8ca6-73528f248341")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "270 Ohm"
+		(at 154 89 0)
+		(layer "F.SilkS")
+		(uuid "ed10db5b-b36d-4bc2-bdd5-b10a9c1d460f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
 	)
 	(segment
 		(start 167.401 92.219)
