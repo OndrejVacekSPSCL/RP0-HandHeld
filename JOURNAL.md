@@ -85,3 +85,10 @@ After some time I finished the PCB
 I found parts (resistors, capacitors, etc.) and added the links to the list above.
 
 **Time spent: 5.5hr**
+
+## 29th May: Remaking the PCB
+Today I relised the pcb is to big, so i started remaking it...
+
+I also started working on the case
+
+**Time spent: 2hr**
