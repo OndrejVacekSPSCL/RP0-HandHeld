@@ -103,5 +103,16 @@ Here is the new version of the pcb:
 I also started working on the case.
 Here is drawing of the layout of the case:
 
-<img src="" alt="image" width="600"/>
-**Time spent: 3hr**
+<img src="https://github.com/user-attachments/assets/835690f5-43f3-4c0c-b03c-64ec0d341f9e" alt="image" width="600"/>
+
+I realised that It will be huge even after the PCB edit, so I'm thinking about renaming it "GameBoy Pro Max" :D
+
+With help of the scatch above I managed to create model of the bottom case.
+
+<img src="https://github.com/user-attachments/assets/245fbcf0-183c-46b1-bf7b-34af65380646" alt="image" width="600"/>
+
+And than I started to work on the top part. It is still without button holes, but that will wait...
+
+<img src="https://github.com/user-attachments/assets/365f093a-df00-4766-913c-db513e0e34dc" alt="image" width="600"/>
+
+**Time spent: 3.5hr**
