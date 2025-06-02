@@ -116,3 +116,15 @@ And than I started to work on the top part. It is still without button holes, bu
 <img src="https://github.com/user-attachments/assets/365f093a-df00-4766-913c-db513e0e34dc" alt="image" width="600"/>
 
 **Time spent: 3.5hr**
+
+## 2nd June: Small PCB edit
+Today, I spent some more time on the case. I  created holes for the buttons. They are 10mm wide, they are 10mm apart as you can see on the second image...
+
+<img src="https://github.com/user-attachments/assets/daedccb8-db24-4e91-900a-d5dc701e6dfa" alt="image" width="600"/>
+
+<img src="https://github.com/user-attachments/assets/fd2969b9-0dc7-4834-997e-9043742ec40c" alt="image" width="600"/>
+
+I din't have much time today, so I hope I will make more progress tomorow.
+
+**Time spent: 0.4hr**
+
