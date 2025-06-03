@@ -129,7 +129,7 @@ I din't have much time today, so I hope I will make more progress tomorow.
 **Time spent: 0.4hr**
 
 ## 3rd June: Finishing case and software 
-###Case
+### Case
 I created small part that will hold buttons. It will be hot glued together...
 
 <img src="https://github.com/user-attachments/assets/73910abe-4628-49af-8c79-f597c4ee4465" alt="image" width="600"/>
