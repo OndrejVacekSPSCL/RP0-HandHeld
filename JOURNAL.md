@@ -138,6 +138,10 @@ This is how it will work:
 <img src="https://github.com/user-attachments/assets/664cb555-08ad-40a6-a7b1-2bbbb6a56652" alt="image" width="600"/>
 
 I also created buttons
+- Base radius: 12 mm
+- Base height: 2 mm
+- Radius: 9 mm
+- Height: 10mm
 
 <img src="https://github.com/user-attachments/assets/1035b1b4-809c-4043-b05a-d48d13b27417" alt="image" width="600"/>
 
