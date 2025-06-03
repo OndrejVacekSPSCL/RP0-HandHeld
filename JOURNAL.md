@@ -149,4 +149,6 @@ I also created buttons
 ### Software
 I also started working on software. I crearted instructions on how to change files to have working sound. It is located in Software folder...
 
+I also foud this [video](https://www.youtube.com/watch?v=BV_nVu8Be7M) that will help me to use my buttons as inputs
+
 **Time spent: 1.25hr**
