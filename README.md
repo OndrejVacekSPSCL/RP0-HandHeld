@@ -3,8 +3,8 @@ Raspberry Pi Zero 2 gaming handheld, that runs Retro Pie...
 
 It consists of few key parts:
 - [Screen](https://github.com/OndrejVacekSPSCL/RP0-HandHeld/edit/main/README.md#screen)
-- Audio
-- Battery and charging
+- [Audio](https://github.com/OndrejVacekSPSCL/RP0-HandHeld/edit/main/README.md#audio)
+- [Battery and charging](https://github.com/OndrejVacekSPSCL/RP0-HandHeld/edit/main/README.md#battery-and-charging)
 - Inputs
 - PCB
 - Case
@@ -27,6 +27,10 @@ Parts list:
 - 2x [0.01 uf Polyester-Film Capacitors](https://tinyurl.com/33zae35e)
 - [Speaker](https://tinyurl.com/4ueak527)
 - custom PCB
+
+This is how they should be conected:
+
+<img src="https://github.com/user-attachments/assets/59e63e07-29d2-48de-9986-08d0493ad39c" alt="image" width="400"/>
 
 ## Battery and charging
 This device is powered by [2000mAh battery](https://tinyurl.com/25jmx5w2) It uses [voltage booster](https://tinyurl.com/4jvbk29v) (3.7V on battery -> 5V for screen and RP0), [battery charge indicator](https://tinyurl.com/5596b6uh), switch and [USB-C port](https://tinyurl.com/2bktbsuc) for charging.
