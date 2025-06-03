@@ -149,6 +149,12 @@ I also created buttons
 ### Software
 I also started working on software. I crearted instructions on how to change files to have working sound. It is located in Software folder...
 
-I also foud this [video](https://www.youtube.com/watch?v=BV_nVu8Be7M) that will help me to use my buttons as inputs
+I also foud this [video](https://www.youtube.com/watch?v=BV_nVu8Be7M) that will help me to use my buttons as inputs.
 
-**Time spent: 1.25hr**
+I started asigning the buttons to the GPIO pins
+
+![Snímek obrazovky 2025-06-03 215644](https://github.com/user-attachments/assets/f55cc6c6-b2c7-4dc2-a48c-84a2dc391ecf)
+
+<img src="https://github.com/user-attachments/assets/75fd9265-28f4-49c9-a04e-0595e856cc4d" alt="image" width="500"/>
+
+**Time spent: 1.5hr**
