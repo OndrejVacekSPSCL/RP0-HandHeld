@@ -128,7 +128,8 @@ I din't have much time today, so I hope I will make more progress tomorow.
 
 **Time spent: 0.4hr**
 
-## 3rd June: Finishing case
+## 3rd June: Finishing case and software 
+###Case
 I created small part that will hold buttons. It will be hot glued together...
 
 <img src="https://github.com/user-attachments/assets/73910abe-4628-49af-8c79-f597c4ee4465" alt="image" width="600"/>
@@ -145,5 +146,7 @@ I also created buttons
 
 <img src="https://github.com/user-attachments/assets/1035b1b4-809c-4043-b05a-d48d13b27417" alt="image" width="600"/>
 
+### Software
+I also started working on software. I crearted instructions on how to change files to have working sound. It is located in Software folder...
 
-**Time spent: 0.75hr**
+**Time spent: 1.25hr**
