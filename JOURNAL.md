@@ -162,7 +162,7 @@ I started asigning the buttons to the GPIO pins
 ## 25th June: Audio fix, BOM and software
 I havent had much time recently, but I'm back. In a few days, I will have another 14 days of not working on any projects. Hope I finish this before that...
 ### Audio
-Today, with help of this [video](https://www.youtube.com/watch?v=KWY_wI-7vEM&t=318s), I found out that I will need audio amplifier similar to [this one](https://www.adafruit.com/product/2130). To connect it to the amplifier I will need [470 Ohm resistors]().
+Today, with help of this [video](https://www.youtube.com/watch?v=KWY_wI-7vEM&t=318s), I found out that I will need [audio amplifier](https://tinyurl.com/mddsej95) similar to [this one](https://www.adafruit.com/product/2130). To connect it to the amplifier I will need [470 Ohm resistors]().
 
 ### BOM
 Created BOM. It is located in the root of this repo.
