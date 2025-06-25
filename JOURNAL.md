@@ -147,7 +147,7 @@ I also created buttons
 <img src="https://github.com/user-attachments/assets/1035b1b4-809c-4043-b05a-d48d13b27417" alt="image" width="600"/>
 
 ### Software
-I also started working on software. I crearted instructions on how to change files to have working sound. It is located in Software folder...
+I also started working on software. I crearted [instructions](https://github.com/OndrejVacekSPSCL/RP0-HandHeld/blob/main/Software/instructions.md) on how to change files to have working sound. It is located in Software folder...
 
 I also foud this [video](https://www.youtube.com/watch?v=BV_nVu8Be7M) that will help me to use my buttons as inputs.
 
@@ -168,6 +168,6 @@ Today, with help of this [video](https://www.youtube.com/watch?v=KWY_wI-7vEM&t=3
 Created BOM. It is located in the root of this repo.
 
 ### Software
-I created instructions for Installing and setting up GPIOnext
-**Time spent: 0.8hr**
+I created [instructions](https://github.com/OndrejVacekSPSCL/RP0-HandHeld/blob/main/Software/instructions.md) for Installing and setting up GPIOnext, installing RetroPie and installing games
+**Time spent: 2hr**
 
