@@ -158,3 +158,13 @@ I started asigning the buttons to the GPIO pins
 <img src="https://github.com/user-attachments/assets/75fd9265-28f4-49c9-a04e-0595e856cc4d" alt="image" width="500"/>
 
 **Time spent: 1.5hr**
+
+## 25th June: Audio fix, BOM and software
+I havent had much time recently, but I'm back. In a few days, I will have another 14 days of not working on any projects. Hope I finish this before that...
+### Audio
+Today, with help of this [video](https://www.youtube.com/watch?v=KWY_wI-7vEM&t=318s), I found out that I will need audio amplifier.
+
+### BOM
+Created BOM. It is located in the root of this repo.
+**Time spent: 0.8hr**
+
