@@ -168,6 +168,7 @@ Today, with help of this [video](https://www.youtube.com/watch?v=KWY_wI-7vEM&t=3
 Created BOM. It is located in the root of this repo.
 
 ### Software
-I created [instructions](https://github.com/OndrejVacekSPSCL/RP0-HandHeld/blob/main/Software/instructions.md) for Installing and setting up GPIOnext, installing RetroPie and installing games
+I created [instructions](https://github.com/OndrejVacekSPSCL/RP0-HandHeld/blob/main/Software/instructions.md) for Installing and setting up GPIOnext, installing RetroPie and installing games.
+
 **Time spent: 2hr**
 
