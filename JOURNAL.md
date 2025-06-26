@@ -4,6 +4,7 @@ author: "Ondkos"
 description: "Raspberry Pi Zero 2 gaming handheld console that runs on RetroPie!"
 created_at: "2025-05-26"
 ---
+### **Total time spent: 20.6hr**
 
 ## 27th May: Start of the project
 Yesterday i started thinking about this project. I was searching the web for suitable RP and settled on RP Zero 2W. It should have enought power to run some games on RetroPie. I chose the zero 2W, becouse it is really small. That is usefull because i am making handheld.
@@ -171,4 +172,17 @@ Created BOM. It is located in the root of this repo.
 I created [instructions](https://github.com/OndrejVacekSPSCL/RP0-HandHeld/blob/main/Software/instructions.md) for Installing and setting up GPIOnext, installing RetroPie and installing games.
 
 **Time spent: 2hr**
+
+## 26th June: ReadMe
+I Started making the requested readme for the submit. I also worked on the render for the readme:
+
+![image](https://github.com/user-attachments/assets/7b22772c-d56c-4f62-adfd-ab68113ff938)
+
+Created the wiering diagram for the ReadMe:
+
+![Bez názvu](https://github.com/user-attachments/assets/f2d5008f-1948-41e1-b65a-818a5fd0a1d7)
+
+and added BOM to readme.
+
+**Time spent: 2.7hr**
 
