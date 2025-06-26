@@ -11,10 +11,10 @@ It consists of few key parts:
 - [Screen](https://github.com/OndrejVacekSPSCL/RP0-HandHeld/edit/main/README.md#screen)
 - [Audio](https://github.com/OndrejVacekSPSCL/RP0-HandHeld/edit/main/README.md#audio)
 - [Battery and charging](https://github.com/OndrejVacekSPSCL/RP0-HandHeld/edit/main/README.md#battery-and-charging)
-- Inputs
-- PCB
-- Case
-- Software
+- [Inputs](https://github.com/OndrejVacekSPSCL/RP0-HandHeld/edit/main/README.md#inputs)
+- [PCB](https://github.com/OndrejVacekSPSCL/RP0-HandHeld/edit/main/README.md#pcb)
+- [Case]()
+- [Software]()
 
 You can read about how I designed it in [JOURNAL.md](https://github.com/OndrejVacekSPSCL/RP0-HandHeld/blob/main/JOURNAL.md).
 
@@ -38,13 +38,6 @@ This is how they should be conected:
 
 <img src="https://github.com/user-attachments/assets/59e63e07-29d2-48de-9986-08d0493ad39c" alt="image" width="400"/>
 
-This is the PCB:
-
-<img src="https://github.com/user-attachments/assets/6e7682e6-b841-4d3d-9538-a29a6f9921ee" alt="image" width="600"/>
-
-![RP0-HandHeld](https://github.com/user-attachments/assets/1bd03e6e-5736-45a1-b495-a285cecf7395)
-
-
 ## Battery and charging
 This device is powered by [2000mAh battery](https://tinyurl.com/25jmx5w2) It uses [voltage booster](https://tinyurl.com/4jvbk29v) (3.7V on battery -> 5V for screen and RP0), [battery charge indicator](https://tinyurl.com/5596b6uh), switch and [USB-C port](https://tinyurl.com/2bktbsuc) for charging.
 
@@ -54,6 +47,13 @@ This device is powered by [2000mAh battery](https://tinyurl.com/25jmx5w2) It use
 This game console will use [rubber dome switches](https://www.aliexpress.com/item/32866761020.html). Those are used in normal gamepads. They will be attached like this:
 
 <img src="https://github.com/user-attachments/assets/664cb555-08ad-40a6-a7b1-2bbbb6a56652" alt="image" width="600"/>
+
+## PCB
+This is the PCB:
+
+<img src="https://github.com/user-attachments/assets/6e7682e6-b841-4d3d-9538-a29a6f9921ee" alt="image" width="600"/>
+
+![RP0-HandHeld](https://github.com/user-attachments/assets/1bd03e6e-5736-45a1-b495-a285cecf7395)
 
 ## Wiring diagram
 This shows, how to wire everything together:
