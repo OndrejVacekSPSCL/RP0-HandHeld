@@ -60,6 +60,12 @@ This shows, how to wire everything together:
 
 ![Bez názvu](https://github.com/user-attachments/assets/2d17e2b5-b506-4dee-afbb-e24fdcff0acd)
 
+## Case
+Case is made from few 3D printed pieces.
+
+## Software
+It runs RetroPie. It is needed to tweak with few files to get the buttons running.
+
 ## BOM
 |Part                                   |Quantity needed|Quantity in set|Price(USD)|Shipping(USD)|Note                                                       |Link                                                                                                                                                                                                                                                                                                                                                                                        |
 |---------------------------------------|---------------|---------------|----------|-------------|-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
