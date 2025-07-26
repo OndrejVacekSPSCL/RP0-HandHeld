@@ -64,7 +64,7 @@ This shows, how to wire everything together:
 Case is made from few 3D printed pieces.
 
 ## Software
-It runs RetroPie. It is needed to tweak with few files to get the buttons running.
+It runs RetroPie. It is needed to tweak with few files to get the buttons running. There is tutorial in the software folder...
 
 ## BOM
 |Part                                   |Quantity needed|Quantity in set|Price(USD)|Shipping(USD)|Note                                                       |Link                                                                                                                                                                                                                                                                                                                                                                                        |
