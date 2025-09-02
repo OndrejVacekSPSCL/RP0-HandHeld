@@ -1,4 +1,6 @@
 # RP0-HandHeld
+>*This project was made for HackClub Highway*
+
 Raspberry Pi Zero 2 gaming handheld, that runs Retro Pie...
 
 I always wanted gaming console that has retro games in it so I made this!
