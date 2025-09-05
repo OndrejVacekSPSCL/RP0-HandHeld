@@ -186,3 +186,11 @@ and added BOM to readme.
 
 **Time spent: 2.7hr**
 
+>From now I journal for myself, not for HackClub
+
+## 5th June: Issues
+All the parts arived few days ago and ia started working on the physical project. I realised the case design wont work, becouse of these cables:
+
+![image](https://github.com/user-attachments/assets/8cb44fa0-76c2-4ff7-be8e-6cb5bf8fb768)
+
+That means I will need to remake it. Make it bigger, or change the design...
