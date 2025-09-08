@@ -188,9 +188,14 @@ and added BOM to readme.
 
 >From now I journal for myself, not for HackClub
 
-## 5th June: Issues
+## 5th September: Issues
 All the parts arived few days ago and ia started working on the physical project. I realised the case design wont work, becouse of these cables:
 
 ![image](https://github.com/user-attachments/assets/8cb44fa0-76c2-4ff7-be8e-6cb5bf8fb768)
 
 That means I will need to remake it. Make it bigger, or change the design...
+
+## 8th September: New case
+I created new case design. It can be found in  [CAD/](https://github.com/OndrejVacekSPSCL/RP0-HandHeld/tree/main/CAD)
+
+<img width="1057" height="525" alt="image" src="https://github.com/user-attachments/assets/3dbf6729-9e8d-41b9-a7cc-64067db0bc6f" />
